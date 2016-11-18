@@ -1,4 +1,8 @@
-<div>
-	<p>  {{name}} </p>
-</div>
+
 <h2>First view</h2>
+<input type="text" ng-model="search">
+<ul>
+	<div ng-repeat= "resp in response | filter:search">
+		<li>{{resp.name}}</li>
+	</div>
+</ul>	

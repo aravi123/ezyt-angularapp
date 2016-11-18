@@ -3,19 +3,16 @@
 	{
 		"name":"Everyday Baked Chicken",
 		"cost":"500",
-		"ingridients":"Chicken,ginger",
-		"ccs":"sacsac"
+		"ingridients":"Chicken,ginger"
 	},
 	{
 		"name":"Cheesy tortellini casserole",
 		"cost":"400",
-		"ingridients":"Cheesy tortellini,marinara sauce",
-		"ccs":"sacsac"
+		"ingridients":"Cheesy tortellini,marinara sauce"
 	},
 	{
 		"name":"Healthy Flourless Pumpkin Muffins",
 		"cost":"180",
-		"ingridients":"rolled oats,pure maple syrup",
-		"ccs":"sacsac"
+		"ingridients":"rolled oats,pure maple syrup"
 	}
 ]
